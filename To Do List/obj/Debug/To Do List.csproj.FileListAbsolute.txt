@@ -1,0 +1,7 @@
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\bin\Debug\To Do List.exe.config
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\bin\Debug\To Do List.exe
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\bin\Debug\To Do List.pdb
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\obj\Debug\To Do List.exe
+C:\Users\daghan\Desktop\rlantadev\repos\To Do List\To Do List\obj\Debug\To Do List.pdb
